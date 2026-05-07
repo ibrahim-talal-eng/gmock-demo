@@ -1,0 +1,3 @@
+/home/ibrahim/gmock-demo/build/CMakeFiles/registration_service_test.dir
+/home/ibrahim/gmock-demo/build/CMakeFiles/edit_cache.dir
+/home/ibrahim/gmock-demo/build/CMakeFiles/rebuild_cache.dir
